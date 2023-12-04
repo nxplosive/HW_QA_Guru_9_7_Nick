@@ -1,0 +1,7 @@
+pypdf~=3.17.1
+pytest
+xlrd~=2.0.1
+openpyxl~=3.1.2
+selenium~=4.15.2
+selene~=2.0.0rc4
+requests~=2.31.0
